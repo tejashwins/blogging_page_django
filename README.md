@@ -1,0 +1,1 @@
+# blogging_page_django
